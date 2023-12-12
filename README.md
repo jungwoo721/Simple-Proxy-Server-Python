@@ -9,6 +9,6 @@ The two key features of this proxy server:
    With "?img_off" option in request, drop all the image files
 
 ## Usage
-'''
+```
 $ python prx.py <port>
-'''
+```
